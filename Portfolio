@@ -1,0 +1,12 @@
+Image Classification
+
+Image Classification uses Machine Learning algorithms to detect the presence of objects within a picture and classify the picture.
+This is the foundation of Computer Vision and Image recognition, It has led to technological breakthroughs in some of the world’s most important industries, such as the automotive, medical, and manufacturing sectors.
+Machines do not analyse a picture as a hole , they analyse the picture by vectors and pixels patterns.
+
+How does it work?
+Images are being scanned by the machine which is tough what is what and then by analysing a lot of pictures it is training it self, the more pictures are scanned by the machine the bigger the chances of the machine to recognise the inside of a picture.
+The way in which machines analyse images is very specific. The different methods try to mimic the way in which the brain and eyes work in order to suggest an optimal analysis performance.
+
+What is Image Classification?
+Image classification, also known as image recognition, is the process of matching one or more single-label or multi-label classification labels to an image.
