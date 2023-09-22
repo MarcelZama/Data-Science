@@ -7,15 +7,16 @@ My Github link: https://github.com/MarcelZama
 From my love of technology when I came across AI I was always interested in how they work,
 so I did my own research and created those projects.
 
-My first project idea was the most popular project, the AI that comes to everyone's mind when they think about Artificial intelligence "Image Classification".
+My first project idea was the most popular project, the AI that comes to everyone's mind when they think about Artificial intelligence "Image Classification/Image Recognition".
 
 Image Classification uses Machine Learning algorithms to detect the presence of objects within a picture and classify the picture.
-This is the foundation of Computer Vision and Image recognition, It has led to technological breakthroughs in some of the world’s most important industries, such as the automotive, medical, and manufacturing sectors.
+This is the foundation of Computer Vision and Image recognition, It has led to technological breakthroughs in some of the world’s most important industries, 
+such as the automotive, medical, and manufacturing sectors.
 Machines do not analyze a picture as a whole, they analyze the picture by vectors and pixel patterns.
 
 How does it work?
-Images are being scanned by the machine which is tough what is what and then by analyzing a lot of pictures it is training itself, the more pictures are scanned by the machine the bigger the chances of the machine to recognise the inside of a picture.
-The way in which machines analyze images is very specific. The different methods try to mimic the way in which the brain and eyes work in order to suggest an optimal analysis performance.
+Images are being scanned by the machine which is tough what is what and then by analyzing a lot of pictures it is training itself, 
+the more pictures are scanned by the machine the bigger the chances of the machine to recognize the inside of a picture.
+The way in which machines analyze images is very specific. 
+The different methods try to mimic the way in which the brain and eyes work in order to suggest an optimal analysis performance.
 
-What is Image Classification?
-Image classification, also known as image recognition, is the process of matching one or more single-label or multi-label classification labels to an image.
