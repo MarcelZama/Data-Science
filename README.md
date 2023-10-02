@@ -44,6 +44,9 @@ The hardest part of working on this project was to find the perfect images to fe
 Background In some cases, View-Point Variation, or Scale Variation factors might confuse the AI.
 
 *Libraries Used*
+
 *Technologies Used*
+                                                                      
                                                                        *Natural language processing*
+                                                                      
                                                                        *Linear Regression*
