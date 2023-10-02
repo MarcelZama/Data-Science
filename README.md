@@ -31,12 +31,13 @@ My first project idea was the most popular project, the AI that comes to everyon
 
 ![Alt Name](https://miro.medium.com/v2/resize:fit:3840/1*oB3S5yHHhvougJkPXuc8og.gif)
 
+### Image Classification
 Image Classification uses Machine Learning algorithms to detect the presence of objects within a picture and classify the picture.
 This is the foundation of Computer Vision and Image recognition, It has led to technological breakthroughs in some of the world’s most important industries, 
 such as the automotive, medical, and manufacturing sectors.
 Machines do not analyze a picture as a whole, they analyze the picture by vectors and pixel patterns.
 
-//Oportunities//
+#### //Oportunities//
 This project would help me understand the importance and power of Artificial intelligence the way it can be used in day-to-day life and the opportunities it has to offer. 
 
 How does it work?
@@ -45,23 +46,23 @@ the more pictures are scanned by the machine the bigger the chances of the machi
 The way in which machines analyze images is very specific. 
 The different methods try to mimic the way in which the brain and eyes work in order to suggest an optimal analysis performance.
 
-//Challenges//
+#### //Challenges//
 The hardest part of working on this project was to find the perfect images to feed to the AI, some images might create problems because of their Illumination, 
 Background In some cases, View-Point Variation, or Scale Variation factors might confuse the AI.
 
-*Libraries Used*
+#### *Libraries Used*
 
-*Technologies Used*
+#### *Technologies Used*
 
-*Techniques Used*
+#### *Techniques Used*
 
-*Tools Used*
+#### *Tools Used*
 
-*Etihcs*
+#### *Etihcs*
 
-*Regulations*
+#### *Regulations*
 
-*GDPR*
+#### *GDPR*
                                                                       
                                                                        *Natural language processing*
                                                                       
