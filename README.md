@@ -34,6 +34,7 @@ This is the foundation of Computer Vision and Image recognition, It has led to t
 such as the automotive, medical, and manufacturing sectors.
 Machines do not analyze a picture as a whole, they analyze the picture by vectors and pixel patterns.
 
+//Oportunities//
 This project would help me understand the importance and power of Artificial intelligence the way it can be used in day-to-day life and the opportunities it has to offer. 
 
 How does it work?
@@ -42,12 +43,23 @@ the more pictures are scanned by the machine the bigger the chances of the machi
 The way in which machines analyze images is very specific. 
 The different methods try to mimic the way in which the brain and eyes work in order to suggest an optimal analysis performance.
 
+//Challenges//
 The hardest part of working on this project was to find the perfect images to feed to the AI, some images might create problems because of their Illumination, 
 Background In some cases, View-Point Variation, or Scale Variation factors might confuse the AI.
 
 *Libraries Used*
 
 *Technologies Used*
+
+*Techniques Used*
+
+*Tools Used*
+
+*Etihcs*
+
+*Regulations*
+
+*GDPR*
                                                                       
                                                                        *Natural language processing*
                                                                       
