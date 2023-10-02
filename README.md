@@ -3,7 +3,7 @@ I am a Bachelor's degree graduate from South East Technological University Carlo
 I am passionate about technology and Nature.
 My Personal E-mail: MarcelZama@outlook.com
 My LinkedIn link: https://www.linkedin.com/in/marcel-zama-16a174238/
-![Alt Name](https://miro.medium.com/v2/resize:fit:3840/1*oB3S5yHHhvougJkPXuc8og.gif)
+
 Along with my College and Professional career, I worked on many projects at work and on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
 
@@ -17,12 +17,14 @@ The project has a very pleasant interface and is easy to use, data is selected b
 
 More interesting Projects can be found on my Github account.
 My Github link: https://github.com/MarcelZama
-                                                                               *AI*
+                                                                              
 From my love of technology when I came across AI I was always interested in how they work,
 so I did my own research and invested time into creating and explaining how "Image Classification, Natural language processing and Linear Regression" work.
 
-                                                                       *Image Classification*
+                                                                       
 My first project idea was the most popular project, the AI that comes to everyone's mind when they think about Artificial intelligence "Image Classification/Image Recognition".
+
+![Alt Name](https://miro.medium.com/v2/resize:fit:3840/1*oB3S5yHHhvougJkPXuc8og.gif)
 
 Image Classification uses Machine Learning algorithms to detect the presence of objects within a picture and classify the picture.
 This is the foundation of Computer Vision and Image recognition, It has led to technological breakthroughs in some of the world’s most important industries, 
