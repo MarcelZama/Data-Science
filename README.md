@@ -10,7 +10,7 @@ My LinkedIn link: https://www.linkedin.com/in/marcel-zama-16a174238/
 
 My Github link: https://github.com/MarcelZama
 
-Along with my College and Professional career, I worked on many projects at work and on my own time. Projects that I was interested in.
+Along with my College and Professional career, I worked on many projects on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
 
 -"Bank Management Software" A project for bank workers that allows them to access and modify data inside the system, and add/delete funds from different accounts.
