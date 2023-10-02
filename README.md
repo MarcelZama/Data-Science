@@ -29,9 +29,10 @@ so I did my own research and invested time into creating and explaining how "Ima
                                                                        
 My first project idea was the most popular project, the AI that comes to everyone's mind when they think about Artificial intelligence "Image Classification/Image Recognition".
 
+
+## Image Classification
 ![Alt Name](https://miro.medium.com/v2/resize:fit:3840/1*oB3S5yHHhvougJkPXuc8og.gif)
 
-### Image Classification
 Image Classification uses Machine Learning algorithms to detect the presence of objects within a picture and classify the picture.
 This is the foundation of Computer Vision and Image recognition, It has led to technological breakthroughs in some of the world’s most important industries, 
 such as the automotive, medical, and manufacturing sectors.
