@@ -1,4 +1,4 @@
-# Portfolioc                        Artificial Inteligence 
+# Portfolioc                       Artificial Inteligence 
 
 My name is Marcel Zama,
 I am a Bachelor's degree graduate from South East Technological University Carlow.
