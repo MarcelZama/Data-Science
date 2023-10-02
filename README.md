@@ -8,6 +8,8 @@ My Personal E-mail: MarcelZama@outlook.com
 
 My LinkedIn link: https://www.linkedin.com/in/marcel-zama-16a174238/
 
+My Github link: https://github.com/MarcelZama
+
 Along with my College and Professional career, I worked on many projects at work and on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
 
@@ -20,8 +22,6 @@ The project has a very pleasant interface and is easy to use, data is selected b
 -And many other projects I can not talk about but they were related to Data Science, Game Development, Animation Creation, and Web Development.
 
 More interesting Projects can be found on my Github account.
-
-My Github link: https://github.com/MarcelZama
                                                                               
 From my love of technology when I came across AI I was always interested in how they work,
 so I did my own research and invested time into creating and explaining how "Image Classification, Natural language processing and Linear Regression" work.
