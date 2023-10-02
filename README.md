@@ -18,6 +18,7 @@ The project has a very pleasant interface and is easy to use, data is selected b
 -And many other projects I can not talk about but they were related to Data Science, Game Development, Animation Creation, and Web Development.
 
 More interesting Projects can be found on my Github account.
+
 My Github link: https://github.com/MarcelZama
                                                                               
 From my love of technology when I came across AI I was always interested in how they work,
