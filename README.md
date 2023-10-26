@@ -51,6 +51,9 @@ The different methods try to mimic the way in which the brain and eyes work in o
 The hardest part of working on this project was to find the perfect images to feed to the AI, some images might create problems because of their Illumination, 
 Background In some cases, View-Point Variation, or Scale Variation factors might confuse the AI.
 
+The Data I decided to use was located on a website specified in image datasets.
+https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification
+
 #### *Libraries Used*
 
 #### *Technologies Used*
