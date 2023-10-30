@@ -58,6 +58,7 @@ https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classificati
 //Tensorflow//
 TensorFlow is an open-source machine-learning library developed and maintained by Google. It is designed to facilitate the development and deployment of machine learning models,
 particularly deep neural networks. TensorFlow is known for its flexibility, scalability, and extensive community support.
+
 //Numpy//
 NumPy, short for Numerical Python, is a fundamental open-source library in Python for numerical and mathematical computations. It provides support for working with large,
 multi-dimensional arrays and matrices, along with a wide range of mathematical functions to operate on these arrays.
