@@ -70,8 +70,15 @@ NumPy serves as a foundation for numerous scientific and data analysis libraries
 #### *Techniques Used*
 
 #### *Tools Used*
-Python
-Visual Studio Code
+*Python*
+
+Python is a high-level, versatile, and widely used programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991.
+Python has gained popularity across a wide range of domains, including web development, data science, machine learning, scientific computing, automation, and more. 
+
+*Visual Studio Code*
+
+Visual Studio Code (VS Code) is a free, open-source, and highly popular source code editor developed by Microsoft.
+It is widely used by developers for a variety of programming and development tasks across different platforms. 
 
 #### *Etihcs*
 
