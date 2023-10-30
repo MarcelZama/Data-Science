@@ -55,11 +55,11 @@ The Data I decided to use was located on a website specified in image datasets.
 https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification
 
 #### *Libraries Used*
-##*Tensorflow*
+####*Tensorflow*
 TensorFlow is an open-source machine-learning library developed and maintained by Google. It is designed to facilitate the development and deployment of machine learning models,
 particularly deep neural networks. TensorFlow is known for its flexibility, scalability, and extensive community support.
 
-##*Numpy*
+###*Numpy*
 NumPy, short for Numerical Python, is a fundamental open-source library in Python for numerical and mathematical computations. It provides support for working with large,
 multi-dimensional arrays and matrices, along with a wide range of mathematical functions to operate on these arrays.
 NumPy serves as a foundation for numerous scientific and data analysis libraries in the Python ecosystem.
