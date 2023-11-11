@@ -65,6 +65,11 @@ particularly deep neural networks. TensorFlow is known for its flexibility, scal
 NumPy, short for Numerical Python, is a fundamental open-source library in Python for numerical and mathematical computations. It provides support for working with large,
 multi-dimensional arrays and matrices, along with a wide range of mathematical functions to operate on these arrays.
 NumPy serves as a foundation for numerous scientific and data analysis libraries in the Python ecosystem.
+
+*Keras*
+
+Keras is like a friendly, easy-to-use tool for building and training computer programs that can learn from data. It's particularly useful for creating things 
+like image recognition, language understanding, and other smart features.
 #### *Technologies Used*
 
 #### *Techniques Used*
