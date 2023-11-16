@@ -71,9 +71,13 @@ NumPy serves as a foundation for numerous scientific and data analysis libraries
 Keras is like a friendly, easy-to-use tool for building and training computer programs that can learn from data. It's particularly useful for creating things 
 like image recognition, language understanding, and other smart features.
 #### *Technologies Used*
-
+python
+jupyther book
+vi
+link to the vebsite 
 #### *Techniques Used*
-
+decition making
+liniar regration
 #### *Tools Used*
 *Python*
 
@@ -90,7 +94,7 @@ It is widely used by developers for a variety of programming and development tas
 #### *Regulations*
 
 #### *GDPR*
-                                                                      
+point to the other projetcs where you need data                                                                       
                                                                        *Natural language processing*
                                                                       
                                                                        *Linear Regression*
