@@ -7,6 +7,14 @@
   - ### [Projects](https://github.com/MarcelZama/Data-Science/tree/main#projects-1)
 - ### [Professional Projects](https://github.com/MarcelZama/Data-Science/tree/main#professional-projects-1)
   - ### [Image Recognition](https://github.com/MarcelZama/Data-Science/tree/main#image-classification)
+    - ### [Oportunities](https://github.com/MarcelZama/Data-Science/tree/main#oportunities)
+    - ### [Challenges](https://github.com/MarcelZama/Data-Science/tree/main#challenges)
+    - ### [Libraries Used](https://github.com/MarcelZama/Data-Science/tree/main#libraries-used)
+    - ### [Techniques Used](https://github.com/MarcelZama/Data-Science/tree/main#technologies-used)
+    - ### [Tools Used](https://github.com/MarcelZama/Data-Science/tree/main#tools-used)
+    - ### [Etihcs](https://github.com/MarcelZama/Data-Science/tree/main#etihcs)
+    - ### [Regulations](https://github.com/MarcelZama/Data-Science/tree/main#regulations)
+    - ### [GDPR](https://github.com/MarcelZama/Data-Science/tree/main#gdpr)
 ## About me
 -  My name is Marcel Zama,
 -  I am a Bachelor's degree graduate from South East Technological University Carlow.
