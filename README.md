@@ -1,14 +1,13 @@
-# Portfolio                       Artificial Inteligence 
+#Y4 Portfolio                       Artificial Inteligence 
 
 My name is Marcel Zama,
 I am a Bachelor's degree graduate from South East Technological University Carlow.
 I am passionate about technology and Nature.
 
 My Personal E-mail: MarcelZama@outlook.com
-
 My LinkedIn link: https://www.linkedin.com/in/marcel-zama-16a174238/
 
-My Github link: https://github.com/MarcelZama
+My Github[https://github.com/MarcelZama] link: https://github.com/MarcelZama
 
 Along with my College and Professional career, I worked on many projects on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
