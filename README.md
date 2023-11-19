@@ -71,30 +71,134 @@ NumPy serves as a foundation for numerous scientific and data analysis libraries
 Keras is like a friendly, easy-to-use tool for building and training computer programs that can learn from data. It's particularly useful for creating things 
 like image recognition, language understanding, and other smart features.
 #### *Technologies Used*
-python
-jupyther book
-vi
-link to the vebsite 
+
+In this specific project, I used Deep Neural Networks (DNN) and Deep learning:
+Deep neural networks are a subset of machine learning algorithms that have been around since the 1950s. DNNs can perform tasks like image recognition, speech recognition, and natural language processing. They consist of multiple hidden layers of neurons where each layer learns a representation of its input data. These representations are then used to make predictions about the output data.
+
+Deep learning is a subset of machine learning that uses multiple processing layers (usually hundreds) to learn data representations. This allows computers to perform tasks that are difficult for humans. Deep learning has been used in many fields, including computer vision, speech recognition, natural language processing, robotics, and reinforcement learning.
+
 #### *Techniques Used*
-decition making
-liniar regration
+
+Decision-making in machine learning algorithms involves the process by which models make predictions or classifications based on input data. Different algorithms use various mechanisms for decision-making, and the choice of algorithm often depends on the nature of the problem and the characteristics of the data. The key aspects of decision-making in machine learning are:
+1. Training Phase:
+  During the training phase, a machine learning model learns patterns and relationships in the input data. The model is exposed to labeled examples (input-output pairs), and it adjusts its internal parameters to minimize the difference between predicted outputs and actual outputs.
+2. Neural Networks:
+  Neural networks consist of layers of interconnected nodes (neurons). Each connection has a weight, and the network makes decisions through a series of weighted computations and activations. The final layer's output represents the decision.
+3. Probabilistic Models:
+  Some models, like logistic regression and Naive Bayes, provide probabilistic outputs. Decision-making involves thresholding these probabilities to make a binary decision or selecting the class with the highest probability.
+4. Reinforcement Learning
+  In reinforcement learning, an agent learns to make decisions by interacting with an environment. The agent receives feedback (rewards or penalties) based on its decisions, and over time, it learns to make decisions that maximize cumulative rewards.
+5. Explainability:
+  Interpretable models, such as decision trees, provide explicit rules for decision-making. For complex models like neural networks, interpretability tools may be used to understand how decisions are influenced by input features.
+6. Monitoring and Evaluation:
+   Continuous monitoring and evaluation of model performance are essential for decision-making in real-world applications. If a model's performance degrades or biases are detected, adjustments may be needed.  
+Linear Regression
+The term regression is used when you try to find the relationship between variables.
+
+In Machine Learning and in statistical modeling, this relationship is used to predict the outcome of events.
+
 #### *Tools Used*
 *Python*
 
 Python is a high-level, versatile, and widely used programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991.
 Python has gained popularity across a wide range of domains, including web development, data science, machine learning, scientific computing, automation, and more. 
+https://www.python.org/
 
 *Visual Studio Code*
 
 Visual Studio Code (VS Code) is a free, open-source, and highly popular source code editor developed by Microsoft.
 It is widely used by developers for a variety of programming and development tasks across different platforms. 
+https://code.visualstudio.com/
 
 #### *Etihcs*
 
+Ethics in data science and machine learning are critical aspects that involve responsible and fair practices in the collection, analysis, and application of data. Here are key considerations related to ethics in these fields:
+1. Privacy and Data Protection:
+  1.1. Concern: Unauthorized access, use, or sharing of personal or sensitive information.
+  1.2. Practice: Implement strong data protection measures, anonymize or pseudonymize data when possible, and ensure compliance with relevant data protection laws (e.g., GDPR).
+2. Transparency and Explainability:
+  2.1. Concern: Lack of transparency in how models make decisions.
+  2.2. Practice: Strive for transparent models, provide explanations for model predictions, and enable users to understand the factors influencing the outcomes.
+3. Informed Consent:
+  3.1. Concern: Lack of informed consent from individuals whose data is used.
+  3.2. Practice: Obtain clear and informed consent when collecting and using data, communicate the purpose of data usage, and allow individuals to opt-out if possible.
+4. Accountability and Responsibility:
+  4.1. Concern: Lack of accountability for the consequences of model decisions.
+  4.2. Practice: Clearly define responsibilities, establish accountability for model performance, and be transparent about the limitations and potential risks associated with the models.
+5. Security:
+  5.1. Concern: Security vulnerabilities that may lead to data breaches or misuse.
+  5.2 Practice: Implement robust security measures to protect data, regularly update software and systems, and conduct security audits to identify and address potential vulnerabilities. 
+Ethical considerations in data science and machine learning are dynamic and evolving, requiring ongoing efforts to adapt to new challenges and technologies. Practitioners, researchers, and organizations should prioritize ethical considerations to ensure the responsible and positive impact of their work on individuals and society.
+
 #### *Regulations*
+Regulations related to data science and machine learning vary by country and region.
+Here are some general considerations and examples of regulations that were relevant to the subject:
+
+1. General Data Protection Regulation (GDPR):
+
+GDPR is a comprehensive data protection regulation in the European Union (EU). It regulates the processing of personal data and imposes strict requirements on organizations that collect, process or store personal data.
+
+2. Sector-Specific Regulations:
+
+Depending on the industry, there may be sector-specific regulations governing the use of data and machine learning. For example, financial institutions may be subject to regulations like Basel III or MiFID II.
+
+3. Ethical Guidelines and Standards:
+
+While not legally binding, ethical guidelines and standards, such as those provided by organizations like the Institute of Electrical and Electronics Engineers (IEEE) and the Association for Computing Machinery (ACM), offer principles for responsible and ethical AI and machine learning development.
 
 #### *GDPR*
-point to the other projetcs where you need data                                                                       
+
+The General Data Protection Regulation (GDPR) is a comprehensive data protection law in the European Union (EU) that aims to give individuals more control over their personal data. When it comes to machine learning (ML) and data science activities, GDPR imposes certain obligations and considerations. Here are key points related to GDPR compliance in the context of machine learning and data science:
+
+1. Lawful Basis for Processing:
+
+Data processing, including that involved in machine learning models, must have a lawful basis. Consent, contractual necessity, legal obligations, vital interests, public tasks, and legitimate interests are common lawful bases.
+
+2. Transparency and Fair Processing:
+
+Inform individuals about how their data will be used in a transparent manner. This includes explaining the purpose of data processing, the types of data collected, and any automated decision-making, such as that involved in machine learning models.
+
+3. Data Minimization:
+
+Collect and process only the data that is necessary for the intended purpose. Avoid collecting excessive or irrelevant data.
+
+4. Purpose Limitation:
+
+Process data only for the specific purposes for which it was collected. If new purposes arise, ensure that they are compatible with the original purposes.
+
+5. Data Accuracy:
+
+Ensure that the data used in machine learning models is accurate and up-to-date. Take steps to correct or erase inaccurate data.
+
+6. Storage Limitation:
+
+Do not retain personal data for longer than necessary. Define and adhere to specific data retention periods.
+
+7. Individual Rights:
+
+Respect individuals' rights under GDPR, including the right to access, rectification, erasure (right to be forgotten), and data portability. Provide mechanisms for individuals to exercise these rights.
+
+8. Automated Decision-Making:
+
+If machine learning models result in automated decision-making, including profiling, individuals have the right not to be subject to decisions based solely on automated processing. Provide explanations and allow for human intervention.
+
+9. Data Security:
+
+Implement appropriate security measures to protect personal data from unauthorized access, disclosure, alteration, and destruction. This is crucial, especially when dealing with sensitive data in machine learning.
+
+10. Data Protection Impact Assessments (DPIAs):
+
+Conduct DPIAs for high-risk processing activities, such as the use of new technologies or large-scale profiling, to assess and mitigate risks to data subjects.
+
+11. Data Processing Records:
+
+Maintain records of data processing activities, including those related to machine learning, to demonstrate compliance with GDPR requirements.
+
+12. Data Protection Officer (DPO):
+
+Appoint a Data Protection Officer if your organization's core activities involve large-scale processing of sensitive data.
+
+It's essential for organizations involved in machine learning and data science to integrate GDPR compliance into their processes and practices. This involves collaboration between data scientists, legal teams, and privacy professionals to ensure that both the technical and legal aspects are addressed appropriately.                                                                    
                                                                        *Natural language processing*
                                                                       
                                                                        *Linear Regression*
