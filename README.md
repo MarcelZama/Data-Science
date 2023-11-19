@@ -1,5 +1,14 @@
 # Y4 Portfolio                       Artificial Inteligence 
 ## Portfolio Content
+- ### [About me]()
+  - ### [Education]()
+  - ### [Skills]()
+  - ### [Programming Languages Used]()
+  - ### [Language]()
+  - ### [Projects]()
+- ### [Professional Projects]()
+  - ### [Image Recognition]()
+## About me
 My name is Marcel Zama,
 I am a Bachelor's degree graduate from South East Technological University Carlow.
 I am passionate about technology and Nature.
@@ -7,7 +16,24 @@ I am passionate about technology and Nature.
 - E-mail: MarcelZama@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
 - [Github](https://github.com/MarcelZama)
-
+## Education
+Bachelor of Science in Data Science
+University Name: SETU Carlow
+Graduation Date: 2024
+## Skills
+- Ability to Multitask
+- Creativity
+- Teamwork
+- Leadership Skills
+- Fast Learner
+- Adaptability
+## Programming Languages Used
+- ### C / C++ / C#
+- ### HTML / CSS / JavaScript / PHP 
+- ### Java
+- ### Python
+- ### Assembly
+## Projects
 Along with my College and Professional career, I worked on many projects on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
 
@@ -27,7 +53,7 @@ so I did my own research and invested time into creating and explaining how "Ima
                                                                        
 My first project idea was the most popular project, the AI that comes to everyone's mind when they think about Artificial intelligence "Image Classification/Image Recognition".
 
-
+# Professional Projects
 ## Image Classification
 ![Alt Name](https://miro.medium.com/v2/resize:fit:3840/1*oB3S5yHHhvougJkPXuc8og.gif)
 
