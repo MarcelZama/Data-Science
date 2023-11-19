@@ -1,13 +1,12 @@
 # Y4 Portfolio                       Artificial Inteligence 
 ## Portfolio Content
-- ### [About me]()
-  - ### [Education]()
-  - ### [Skills]()
-  - ### [Programming Languages Used]()
-  - ### [Language]()
-  - ### [Projects]()
-- ### [Professional Projects]()
-  - ### [Image Recognition]()
+- ### [About me](https://github.com/MarcelZama/Data-Science/tree/main#about-me-1)
+  - ### [Education](https://github.com/MarcelZama/Data-Science/tree/main#education-1)
+  - ### [Skills](https://github.com/MarcelZama/Data-Science/tree/main#skills-1)
+  - ### [Programming Languages Used](https://github.com/MarcelZama/Data-Science/tree/main#programming-languages-used-1)
+  - ### [Projects](https://github.com/MarcelZama/Data-Science/tree/main#projects-1)
+- ### [Professional Projects](https://github.com/MarcelZama/Data-Science/tree/main#professional-projects-1)
+  - ### [Image Recognition](https://github.com/MarcelZama/Data-Science/tree/main#image-classification)
 ## About me
 My name is Marcel Zama,
 I am a Bachelor's degree graduate from South East Technological University Carlow.
@@ -17,9 +16,9 @@ I am passionate about technology and Nature.
 - [LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
 - [Github](https://github.com/MarcelZama)
 ## Education
-Bachelor of Science in Data Science
-University Name: SETU Carlow
-Graduation Date: 2024
+- Bachelor of Science in Data Science
+- University Name: SETU Carlow
+- Graduation Date: 2024
 ## Skills
 - Ability to Multitask
 - Creativity
