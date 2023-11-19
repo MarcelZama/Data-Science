@@ -5,9 +5,8 @@ I am a Bachelor's degree graduate from South East Technological University Carlo
 I am passionate about technology and Nature.
 
 My Personal E-mail: MarcelZama@outlook.com
-My LinkedIn link: https://www.linkedin.com/in/marcel-zama-16a174238/
-
-My [Github](https://github.com/MarcelZama) link: https://github.com/MarcelZama
+[LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
+[Github](https://github.com/MarcelZama)
 
 Along with my College and Professional career, I worked on many projects on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
