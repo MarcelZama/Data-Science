@@ -16,9 +16,9 @@ I am passionate about technology and Nature.
 - [LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
 - [Github](https://github.com/MarcelZama)
 ## Education
-- Bachelor of Science in Data Science
-- University Name: SETU Carlow
-- Graduation Date: 2024
+  - Bachelor of Science in Data Science
+  - University Name: SETU Carlow
+  - Graduation Date: 2024
 ## Skills
 - Ability to Multitask
 - Creativity
