@@ -4,9 +4,9 @@ My name is Marcel Zama,
 I am a Bachelor's degree graduate from South East Technological University Carlow.
 I am passionate about technology and Nature.
 
--E-mail: MarcelZama@outlook.com
--[LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
--[Github](https://github.com/MarcelZama)
+*E-mail: MarcelZama@outlook.com
+*[LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
+*[Github](https://github.com/MarcelZama)
 
 Along with my College and Professional career, I worked on many projects on my own time. Projects that I was interested in.
 Some of the most interesting projects I have been working on are:
