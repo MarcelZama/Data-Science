@@ -8,9 +8,9 @@
 - ### [Professional Projects](https://github.com/MarcelZama/Data-Science/tree/main#professional-projects-1)
   - ### [Image Recognition](https://github.com/MarcelZama/Data-Science/tree/main#image-classification)
 ## About me
-My name is Marcel Zama,
-I am a Bachelor's degree graduate from South East Technological University Carlow.
-I am passionate about technology and Nature.
+-  My name is Marcel Zama,
+-  I am a Bachelor's degree graduate from South East Technological University Carlow.
+-  I am passionate about technology and Nature.
 
 - E-mail: MarcelZama@outlook.com
 - [LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
