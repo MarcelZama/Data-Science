@@ -230,7 +230,19 @@ Maintain records of data processing activities, including those related to machi
 
 Appoint a Data Protection Officer if your organization's core activities involve large-scale processing of sensitive data.
 
-It's essential for organizations involved in machine learning and data science to integrate GDPR compliance into their processes and practices. This involves collaboration between data scientists, legal teams, and privacy professionals to ensure that both the technical and legal aspects are addressed appropriately.                                                                    
+It's essential for organizations involved in machine learning and data science to integrate GDPR compliance into their processes and practices. This involves collaboration between data scientists, legal teams, and privacy professionals to ensure that both the technical and legal aspects are addressed appropriately.                                                            
+## Decision Trees and Random Forests
+
+Given code is not created by me, is only modified and updated.
+original code can be found [here](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb).
+
+In the vast landscape of machine learning, Decision Trees and Random Forests stand as powerful tools for both classification and regression tasks. Decision Trees serve as intuitive models that mimic human decision-making processes, breaking down complex problems into a series of simple, interpretable decisions. On the other hand, Random Forests harness the collective intelligence of multiple Decision Trees to enhance predictive accuracy and generalization.
+
+Encountered Errors:
+The given code was not executed because it was written on an old version of Python. To make it execute, numerous parts of the project needed to be changed.
+
+
+
                                                                        *Natural language processing*
                                                                       
                                                                        *Linear Regression*
