@@ -240,8 +240,18 @@ In the vast landscape of machine learning, Decision Trees and Random Forests sta
 
 Encountered Errors:
 The given code was not executed because it was written on an old version of Python. To make it execute, numerous parts of the project needed to be changed.
+like libraries having different names for their sublibraries and the most important part was 
 
+  %matplotlib inline <br>
+  import numpy as np<br>
+  import matplotlib.pyplot as plt<br>
+  plt.style.use('seaborn-whitegrid')<br>
 
+The provided code encountered an error due to the unavailability of "seaborn-whitegrid," which has been updated to "v0_8-whitegrid." As a solution, the code was modified to use the updated style.
+
+After the given problems were resolved I decided to embark on a mini project incorporating the insights gained from this study.
+
+Water quality
 
                                                                        *Natural language processing*
                                                                       
