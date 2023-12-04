@@ -25,7 +25,7 @@
 - [LinkedIn](https://www.linkedin.com/in/marcel-zama-16a174238/)
 - [Github](https://github.com/MarcelZama)
 ## Education
-  - Bachelor of Science in Data Science
+  - Bachelor of Science (Honours) in Software Development
   - University Name: SETU Carlow
   - Graduation Date: 2024
 ## Skills
@@ -168,7 +168,7 @@ Here are some general considerations and examples of regulations that were relev
 
 1. General Data Protection Regulation (GDPR):
 
-GDPR is a comprehensive data protection regulation in the European Union (EU). It regulates the processing of personal data and imposes strict requirements on organizations that collect, process or store personal data.
+GDPR is a comprehensive data protection regulation in the European Union (EU). It regulates the processing of personal data and imposes strict requirements on organizations that collect, process, or store personal data.
 
 2. Sector-Specific Regulations:
 
@@ -180,7 +180,7 @@ While not legally binding, ethical guidelines and standards, such as those provi
 
 #### *GDPR*
 
-The General Data Protection Regulation (GDPR) is a comprehensive data protection law in the European Union (EU) that aims to give individuals more control over their personal data. When it comes to machine learning (ML) and data science activities, GDPR imposes certain obligations and considerations. Here are key points related to GDPR compliance in the context of machine learning and data science:
+The General Data Protection Regulation (GDPR) is a comprehensive data protection law in the European Union (EU) that aims to give individuals more control over their data. When it comes to machine learning (ML) and data science activities, GDPR imposes certain obligations and considerations. Here are key points related to GDPR compliance in the context of machine learning and data science:
 
 1. Lawful Basis for Processing:
 
@@ -188,7 +188,7 @@ Data processing, including that involved in machine learning models, must have a
 
 2. Transparency and Fair Processing:
 
-Inform individuals about how their data will be used in a transparent manner. This includes explaining the purpose of data processing, the types of data collected, and any automated decision-making, such as that involved in machine learning models.
+Inform individuals about how their data will be used transparently. This includes explaining the purpose of data processing, the types of data collected, and any automated decision-making, such as that involved in machine learning models.
 
 3. Data Minimization:
 
@@ -230,7 +230,9 @@ Maintain records of data processing activities, including those related to machi
 
 Appoint a Data Protection Officer if your organization's core activities involve large-scale processing of sensitive data.
 
-It's essential for organizations involved in machine learning and data science to integrate GDPR compliance into their processes and practices. This involves collaboration between data scientists, legal teams, and privacy professionals to ensure that both the technical and legal aspects are addressed appropriately.                                                            
+Organizations involved in machine learning and data science need to integrate GDPR compliance into their processes and practices. This involves collaboration between data scientists, legal teams, and privacy professionals to ensure that both the technical and legal aspects are addressed appropriately.   
+
+
 ## Decision Trees and Random Forests
 
 Given code is not created by me, is only modified and updated.
