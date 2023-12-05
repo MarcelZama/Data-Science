@@ -251,9 +251,6 @@ like libraries having different names for their sublibraries and the most import
 
 The provided code encountered an error due to the unavailability of "seaborn-whitegrid," which has been updated to "v0_8-whitegrid." As a solution, the code was modified to use the updated style.
 
-After the given problems were resolved I decided to embark on a mini project incorporating the insights gained from this study.
-
-Water quality
 
                                                                        *Natural language processing*
                                                                       
