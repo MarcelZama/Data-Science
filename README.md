@@ -255,3 +255,8 @@ The provided code encountered an error due to the unavailability of "seaborn-whi
                                                                        *Natural language processing*
                                                                       
                                                                        *Linear Regression*
+
+## Artificial Neural Networks
+### Convolutional Neural Network
+### Multilayer Perceptron/Feed Forward
+### Recurrent Neural Network 
