@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handwritten Digit Recognition</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            position: relative;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333333;
+        }
+
+        p {
+            color: #666666;
+        }
+
+        input[type="file"] {
+            margin-bottom: 20px;
+        }
+
+        .btn {
+            background-color: #007bff;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+        .result {
+            background-color: #007bff;
+            color: black; /* Changed text color to black */
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .result p {
+            margin: 0;
+            font-size: 24px;
+            text-align: center;
+            color: black; /* Explicitly set color for prediction text */
+        }
+
+        .confidence {
+            font-size: 18px;
+            text-align: center;
+            margin-top: 10px;
+            color: black; /* Explicitly set color for confidence text */
+        }
+
+        .example-img {
+            position: absolute;
+            top: 155px;
+            right: 20px;
+            max-width: 150px;
+            border-radius: 8px;
+            border: 2px solid #007bff;
+        }
+        .example{
+            position: absolute;
+            top: 270px;
+            right: 180px;
+            max-width: 150px;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Handwritten Digit Recognition </h1>
+        <p>This straightforward application is created to identify a digit ranging from 0 to 9 within a file. Although it might not reach complete accuracy, its performance remains reliably strong.</p>
+        <p>Supported image formats: PNG, JPG, JPEG, GIF, BMP</p>
+        <p>Upload your file here (Try Drag and Drop)</p>
+
+        <form action="/" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".png, .jpg, .jpeg, .gif, .bmp">
+            <button type="submit" class="btn">Predict</button>
+        </form>
+
+        {% if result %}
+        <img src="data:image/jpeg;base64,{{ image }}" alt="Uploaded Image" id="uploaded-image">
+
+        <div class="result">
+            <p>{{ result }}</p>
+        </div>
+        {% endif %}
+
+
+        <!-- Example Image -->
+        <p class="example">Example image:</p>
+        <img src="{{ url_for('static', filename='example.png') }}" alt="Example Image" class="example-img">
+    </div>
+</body>
+</html>
